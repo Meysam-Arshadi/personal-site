@@ -1,0 +1,146 @@
+.main-site-links {
+  font-size: 23px;
+  font-style: normal;
+  text-align: center;
+  width: 200px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin: 40px 50px;
+  background: #00aa8f;
+}
+
+.c-site-header {
+  text-align: left;
+  font-weight: bold;
+  font-weight: bold;
+}
+
+.c-site-footer {
+  text-align: center;
+  color: white;
+  font-style: italic;
+  font-size: 18px;
+  margin: 20px 0px;
+}
+
+.frame-olive {
+  text-align: justify;
+  width: 950px; 
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin: 40px 50px;
+  background: #aa8f00;
+}
+
+.frame-grey {
+  text-align: justify;
+  width: 950px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin: 40px 50px;
+  background: #555555;
+}
+
+.frame-green {
+  text-align: justify;
+  width: 950px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin: 40px 50px;
+  background: #00aa8f;
+}
+
+img {
+  width: 400px;
+  margin: 20px 30px;
+  padding: 0rem;
+}
+
+head,
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #FFFFFF;
+  background-image: linear-gradient(
+      100deg,
+      rgba(10, 30, 120, 0.8),
+      rgba(100, 60, 25, 0.8)
+    ),
+    url(https://scontent-lhr8-1.xx.fbcdn.net/v/t31.18172-8/11146452_908707265860021_6190602979582213857_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=19026a&_nc_ohc=34qJ8gLFTOoAX8Pw6fl&_nc_ht=scontent-lhr8-1.xx&oh=00_AT92UixQ-g_TLAPKjidwMbuQX8c6dsMPUT7b32CRERiJSQ&oe=627D080B);
+  background-size: cover;
+}
+
+h1 {
+  color: #FFFFFF;
+  margin: 80px 50px;
+  line-height: 20px;
+}
+
+h2 {
+  font-size: 90px;
+  color: #ffd700;
+  line-height: 20px;
+  margin: 50px;
+} 
+
+h3 {
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 0px;
+  color: #FFFFFF;
+  margin: 50px;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 0px;
+  color: #FFFFFF;
+  margin: 50px;
+}
+
+h5 {
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 0px;
+  color: #FFFFFF;
+  margin: 50px;
+}
+
+P {
+  font-size: 20px;
+  padding: 1rem;
+  line-height: 40px;
+  margin: 80px 50px;
+}
+
+iframe {
+ border: 0px;
+ width: 600px;
+ height: 360px;
+ margin: 30px 50px;
+}
+
+footer {
+  line-height: 35px;
+  padding: 0px;
+  width: 700px;
+  margin: 10px 25px;
+}
+
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
